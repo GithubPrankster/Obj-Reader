@@ -4,5 +4,5 @@ Obj Reader is a python program that takes your .obj files and renders it on a ni
 Obj Reader is also set in the future to be able to read collada files, cause why not.
 
 Dev3
-* Obj gui support in the workings
-* Libraries being used: PyOpenGL, Pygame
+* Better support for models
+* Libraries being used: PyOpenGL, Pygame, PyAssimp
